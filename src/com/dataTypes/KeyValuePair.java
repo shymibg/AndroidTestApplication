@@ -1,8 +1,5 @@
-package com.com.dataTypes;
+package com.dataTypes;
 
-/**
- * Created by Shymi on 28.2.2016 г..
- */
 public class KeyValuePair<K,V> {
     private K key;
     private V value;

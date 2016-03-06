@@ -2,8 +2,8 @@ package com.main;
 
 import android.app.Activity;
 import android.os.Bundle;
-import com.com.dataTypes.KeyValuePair;
 import com.components.AttachedDocsControl;
+import com.dataTypes.KeyValuePair;
 
 import java.util.ArrayList;
 import java.util.Random;
